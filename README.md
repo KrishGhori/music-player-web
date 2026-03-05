@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # music_player_web
 
 A simple web-based music player built using HTML, CSS, and JavaScript.
@@ -56,3 +57,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> 53dbe1d (Initialize music streaming web app project)
+=======
+# music-player-web
+ modern and responsive "Music Player Website" built using "HTML, CSS, and JavaScript".   Users can play, pause, and enjoy music with a clean and interactive UI.
+>>>>>>> c5d0b43a47c0902de1a79ff476a65fc32f613ee0
